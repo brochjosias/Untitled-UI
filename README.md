@@ -18,6 +18,11 @@ Este projeto é uma landing page construída usando o Untitled UI. O design segu
 - Next.js
 - TailwindCSS
 
+## Figma do projeto
+
+- https://www.untitledui.com/
+- modelo landing-page
+
 ## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
 ```bash
